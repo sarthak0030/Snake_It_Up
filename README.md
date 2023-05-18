@@ -18,7 +18,7 @@
 <br>
 </div>
 
-[Download .exe file](Website/images/1.png)
+[Download .exe file](PlayVerse-The-Online-Gaming-Website/Website/images/1.png)
 
 <div align="center">
   
