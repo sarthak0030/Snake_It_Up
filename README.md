@@ -18,7 +18,7 @@
 <br>
 </div>
 
-<a href="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/blob/4392d3981f11889b37e2eae5f69edc02d568ecd2/Website/images/1.png" title="Download" download>Download</a>
+[Download Minion](https://www.github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/Website/images/1.png "download")
 
 <div align="center">
   
