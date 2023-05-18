@@ -18,7 +18,7 @@
 <br>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To enjoy the game on your device, simply download it from the link below: &nbsp;[Download Game](download/file.exe)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To enjoy the game on your device, simply download it from the link below: &nbsp;[Download Game](Download/snake-it-up-launcher.exe)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clicking the link will initiate the download of the game executable file (.exe). Once downloaded, you can run the game on your Windows computer and start playing.
 
