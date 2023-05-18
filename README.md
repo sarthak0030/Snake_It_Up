@@ -18,38 +18,29 @@
 <br>
 </div>
 
-[Download Minion](https://www.github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/Website/images/1.png "download")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To enjoy the game on your device, simply download it from the link below: &nbsp;[Download Game](download/file.exe)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clicking the link will initiate the download of the game executable file (.exe). Once downloaded, you can run the game on your Windows computer and start playing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore the repository for additional information, such as the source code and project documentation. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue on the repository page. Thank you for your interest in Snake It Up: The Python Snake Game! I hope you have a fantastic time playing it and challenging your high scores. Enjoy!"
 
 <div align="center">
   
-## 🔐 I'd Password
-<br>
-</div>
-
-I'd and Password for the Admin login is as follows<br>
-
-* I'd= admin<br>
-* Password= admin<br>
-
-<div align="center">
-  
-## 🖼️ Website Images
+## 🖼️ Game Images
 <br>
 
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a" width="550"><br>
-  *PlayVerse Website*<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/99d17a60-3044-4fc4-9dad-48394ab7f76d" width="550"><br>
-  *PlayVerse- Admin Page*<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2d91af60-e5f2-48cc-ace5-d3a0844873d2" width="550"><br>
-  *Memoria: The Memory Game**<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/c0e65d79-9e56-40eb-9e4f-9e79b3aff568" width="550"><br>
-  *Hangman: The Word Game**<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/f5cecd30-da4c-41cc-b8e3-d7494219ea1a" width="550"><br>
-  *Rock-Paper-Scissor**<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/0543d574-5c21-4119-89e7-2a6104185f58" width="550"><br>
-  *Tic-Tac-Toe**<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2b11c6b0-3b2a-4a09-829b-635b1666de44" width="550"><br>
-  *Connect 4**<br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/bee872c3-dcb0-4f64-853f-47ab42bd4d81" width="550"><br>
+  *Snake It Up Game*<br><br><br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/55ba5fea-1db2-4bcc-8599-51e213384454" width="550"><br>
+  <br><br><br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/963f46fc-15e9-40af-ba3c-32cbd2d8a3d2" width="550"><br>
+  <br><br><br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/cacc9810-f45e-4b95-98ed-cd78f02213bb" width="550"><br>
+  <br><br><br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/ed4f6efe-c1b6-49bf-b04c-4fcda98c3e89" width="550"><br>
+  <br><br><br>
+<img src="https://github.com/sarthak0030/Snake_It_Up/assets/110853665/3ea0de00-9a3f-4729-a3d5-b021c7a47a2c" width="550"><br>
+  <br>
 
 </div>
 
@@ -78,4 +69,3 @@ I'd and Password for the Admin login is as follows<br>
 <br><br>
 </div>
 
-\* The following Games are made with referance to [codingartistweb.com](https://codingartistweb.com/), we do not own the copyrights of the game.
