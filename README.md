@@ -18,7 +18,7 @@
 <br>
 </div>
 
-[Download .exe file](PlayVerse-The-Online-Gaming-Website/Website/images/1.png)
+<a href="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/blob/4392d3981f11889b37e2eae5f69edc02d568ecd2/Website/images/1.png" title="Download" download>Download</a>
 
 <div align="center">
   
